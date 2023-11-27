@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMesclarPdf", "ApiMesclarPdf\ApiMesclarPdf.csproj", "{4F907CFD-DB50-4473-8F27-E455B945527C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F907CFD-DB50-4473-8F27-E455B945527C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F907CFD-DB50-4473-8F27-E455B945527C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F907CFD-DB50-4473-8F27-E455B945527C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F907CFD-DB50-4473-8F27-E455B945527C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B15E427-4E87-4465-833F-0CFF772378AD}
+	EndGlobalSection
+EndGlobal
